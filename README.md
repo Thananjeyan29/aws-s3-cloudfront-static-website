@@ -63,13 +63,13 @@ Direct public access to S3 is fully blocked.
 ## 📸 Screenshots
 
 ### CloudFormation Template
-![CloudFormation Template](cloudfront-s3-oac.yaml.png)
+![CloudFormation Template](screenshot/cloudfront-s3-oac.yaml.png)
 
 ### CloudFormation Outputs
-![Stack Outputs](stack-output.png)
+![Stack Outputs](screenshot/stack-output.png)
 
 ### Private S3 Bucket Settings
-![Private S3 Bucket](Privtae-S3-Bucket.png)
+![Private S3 Bucket](screenshot/Privtae-S3-Bucket.png)
 
 ---
 
