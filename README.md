@@ -96,13 +96,13 @@ The website is accessible only via the CloudFront HTTPS endpoint.
 ## 📸 Screenshots
 
 ### 📄 CloudFormation Template
-![CloudFormation Template](screenshots/cloudformation-template.png)
+![CloudFormation Template](screenshot/cloudformation-template.png)
 
 ### 📊 Stack Outputs
-![Stack Outputs](screenshots/stack-output.png)
+![Stack Outputs](screenshot/stack-output.png)
 
 ### 🔒 Private S3 Configuration
-![Private S3 Configuration](screenshots/private-s3-settings.png)
+![Private S3 Configuration](screenshot/private-s3-settings.png)
 
 ---
 
