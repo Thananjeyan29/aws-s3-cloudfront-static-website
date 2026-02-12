@@ -15,7 +15,7 @@ User → CloudFront (HTTPS) → OAC → Private S3 Bucket
 Direct public access to S3 is fully blocked.
 
 ### Architecture Diagram
-![Architecture Diagram](docs/architecture-diagram.png)
+![Architecture Diagram](docs/architecture-img.png)
 
 ---
 
